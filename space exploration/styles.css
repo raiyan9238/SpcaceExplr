@@ -1,0 +1,31 @@
+body {
+  color: #ecefd2;
+  margin: 0;
+  /*background-image: url("kacha.jpg");
+  background-size: cover;*/
+  text-align: center;
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+}
+#hero{
+  background-image: url("kacha.jpg");
+  background-size: cover;
+  padding: 10px 0 40px 0;
+}
+.btn {
+  background-color: white;
+  border: none;
+  padding: 6px 12px;
+  font-family: inherit;
+  color: #374642 ;
+  font-weight: bold;
+}
+.underline {
+  border-bottom: 3px solid white;
+}
+#image {
+  width: 120px;
+}
+.black{
+  color: black;
+}
